@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there my name is Marwa 👋🧬🔬
 
-<!--
-**MarwaBadawy/MarwaBadawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a bioinformatician with extensive experience in analyzing Next Generation Sequencing (NGS) data, specializing in working with Variant Call Format (VCF) files to identify novel variants associated with neurological diseases. 
 
-Here are some ideas to get you started:
+### 🧬 **Key Expertise**
+- Proficient in using ensemble tools like **Variant Effect Predictor (VEP)** to predict variant effects.
+- Skilled in tools such as **SAMtools**, **BCFtools**, and **VCFtools** for data analysis.
+- Experienced in developing **customized pipelines** to answer specific biological research questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 **Background**
+I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**.
+
+### 🌟 **What I Bring**
+I ensure **comprehensive and precise data analysis** by leveraging my strong expertise in bioinformatics and dedication to solving complex biological challenges.
+
+Feel free to explore my repositories for insights into my work or connect with me for collaboration opportunities!
