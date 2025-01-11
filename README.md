@@ -8,7 +8,7 @@ I am a bioinformatician with extensive experience in analyzing Next Generation S
 - Experienced in developing **customized pipelines** to answer specific biological research questions.
 
 ### 🎓 **Background**
-I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**.
+I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Fall 2024**
 
 ### 🌟 **What I Bring**
 I ensure **comprehensive and precise data analysis** by leveraging my strong expertise in bioinformatics and dedication to solving complex biological challenges.
