@@ -10,4 +10,4 @@ I am a bioinformatician who likes to work on analyzing Next Generation Sequencin
 ### 🎓 **Background**
 I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Fall 2024**
 
-Feel free to explore my repositories for insights into my work or connect with me for collaboration opportunities!
+Feel free to explore my repositories or connect with me for collaboration opportunities!
