@@ -1,6 +1,6 @@
 ## Hi there my name is Marwa 👋🧬🔬
 
-I am a bioinformatician who likes to work on analyzing Next Generation Sequencing (NGS) data, specifically working with Variant Call Format (VCF) files to identify novel variants associated with neurological diseases. 
+I am a bioinformatician who likes to work on analyzing Next Generation Sequencing (NGS) data, specifically working with Variant Call Format (VCF) files to identify novel variants associated with neurological diseases, or any other medical condition. 
 
 ### 🧬 **Key Expertise**
 - Proficient in using ensemble tools like **Variant Effect Predictor (VEP)** for variants' predication.
