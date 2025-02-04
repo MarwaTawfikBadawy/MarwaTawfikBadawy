@@ -2,6 +2,11 @@
 
 I am a bioinformatician who likes to work on analyzing Next Generation Sequencing (NGS) data, specifically working with Variant Call Format (VCF) files to identify novel variants associated with neurological diseases, or any other medical condition. 
 
+## 🚀 Languages & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ### 🧬 **Key Expertise**
 - Proficient in using ensemble tools like **Variant Effect Predictor (VEP)** for variants' predication.
 - Skilled in tools such as **SAMtools**, **BCFtools**, and **VCFtools** for data analysis.
