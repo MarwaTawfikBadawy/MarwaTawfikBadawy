@@ -17,6 +17,13 @@ I am a bioinformatician who likes to work on analyzing Next Generation Sequencin
 ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-%F0%9F%A7%AC-green?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-%F0%9F%93%88-orange?style=for-the-badge)
 
+```mermaid
+graph TD;
+  A[Raw Data] -->|Preprocessing| B[Quality Check]
+  B -->|Variant Calling| C[Custom Pipeline]
+  C -->|Annotation| D[Biological Insights]
+```
+
 ### 🎓 **Background**
 I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Fall 2024**
 
