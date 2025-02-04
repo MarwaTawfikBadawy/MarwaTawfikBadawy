@@ -13,7 +13,9 @@ I am a bioinformatician who likes to work on analyzing Next Generation Sequencin
 ![VCFtools](https://img.shields.io/badge/VCFtools-FF4500?style=for-the-badge&logo=linux&logoColor=white)
 ![VEP](https://img.shields.io/badge/Variant%20Effect%20Predictor-007ACC?style=for-the-badge&logo=perl&logoColor=white)
 
-### 🧬 **Key Expertise**
+![Pipeline](https://img.shields.io/badge/Custom_Pipelines-%F0%9F%9A%80-blue?style=for-the-badge)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-%F0%9F%A7%AC-green?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-%F0%9F%93%88-orange?style=for-the-badge)
 
 ### 🎓 **Background**
 I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Fall 2024**
