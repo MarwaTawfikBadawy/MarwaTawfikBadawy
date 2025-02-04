@@ -14,7 +14,6 @@ I am a bioinformatician who likes to work on analyzing Next Generation Sequencin
 ![VEP](https://img.shields.io/badge/Variant%20Effect%20Predictor-007ACC?style=for-the-badge&logo=perl&logoColor=white)
 
 ![Pipeline](https://img.shields.io/badge/Custom_Pipelines-%F0%9F%9A%80-blue?style=for-the-badge)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-%F0%9F%A7%AC-green?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-%F0%9F%93%88-orange?style=for-the-badge)
 
 ```mermaid
