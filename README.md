@@ -14,7 +14,6 @@ I am a bioinformatician who likes to work on analyzing Next Generation Sequencin
 ![VEP](https://img.shields.io/badge/Variant%20Effect%20Predictor-007ACC?style=for-the-badge&logo=perl&logoColor=white)
 
 ### 🧬 **Key Expertise**
-- Proficient in using ensemble tools like **Variant Effect Predictor (VEP)** for variants' predication.
 - Experienced in developing **customized pipelines** to answer specific biological research questions.
 
 ### 🎓 **Background**
