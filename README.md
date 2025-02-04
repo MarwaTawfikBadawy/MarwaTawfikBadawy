@@ -7,6 +7,12 @@ I am a bioinformatician who likes to work on analyzing Next Generation Sequencin
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
+## 🧬 Bioinformatics Tools
+![SAMtools](https://img.shields.io/badge/SAMtools-8A2BE2?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![BCFtools](https://img.shields.io/badge/BCFtools-228B22?style=for-the-badge&logo=linux&logoColor=white)
+![VCFtools](https://img.shields.io/badge/VCFtools-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![VEP](https://img.shields.io/badge/Variant%20Effect%20Predictor-007ACC?style=for-the-badge&logo=perl&logoColor=white)
+
 ### 🧬 **Key Expertise**
 - Proficient in using ensemble tools like **Variant Effect Predictor (VEP)** for variants' predication.
 - Skilled in tools such as **SAMtools**, **BCFtools**, and **VCFtools** for data analysis.
