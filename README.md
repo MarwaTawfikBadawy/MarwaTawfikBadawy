@@ -24,6 +24,6 @@ graph TD;
 ```
 
 ### 🎓 **Background**
-I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Fall 2024**
+I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Class of 2025**
 
 Feel free to explore my repositories or connect with me for collaboration opportunities!
