@@ -22,6 +22,7 @@ graph TD;
   B -->|Variant Calling| C[Custom Pipeline]
   C -->|Annotation| D[Biological Insights]
 ```
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarwaTawfikBadawy&theme=github)
 
 ### 🎓 **Background**
 I hold a **PhD in Applied Sciences** with a specialization in **biotechnology** and **bioinformatics**. From the American University in Cairo (AUC) **Class of 2025**
